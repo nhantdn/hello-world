@@ -1,3 +1,5 @@
 <?php
-	print("Hello World");
+ echo "Hello World";
+ //or
+ print "Hello World";
 ?>
